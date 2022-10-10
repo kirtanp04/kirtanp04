@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtanp04&label=Profile%20views&color=0e75b6&style=flat" alt="kirtanp04" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
--  <a href="https://kirtanp04.github.io/profile/>  profile </a>
 
 - 💬 Ask me about **HTML, CSS & JS**
 
