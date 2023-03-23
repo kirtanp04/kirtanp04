@@ -41,7 +41,7 @@
 
 h1 {
   font-size: 9vmin;
-  color: #8bf;
+  color: red;
   text-align: left;
   font-family: Lato, sans-serif;
   font-weight: 700;
