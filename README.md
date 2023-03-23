@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Kirtan Patel</h1>
-<h3 align="center" id="h3">A passionate Full Stack Web Developer from India</h3>
-<button>Click</button>
+<h1 aria-label="Hi! I'm a developer">
+  Hi! I'm a&nbsp;<span class="typewriter"></span>
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtanp04&label=Profile%20views&color=0e75b6&style=flat" alt="kirtanp04" /> </p>
 
@@ -28,21 +29,94 @@
 
 
   
-<script>
- const data = document.getElementById("h3")
-var i = 0;
-var txt = data;
-var speed = 50;
+<style>
+  body {
+  background: #182028;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
 
-function typeWriter() {
-  if (i < txt.length) {
-    document.getElementById("demo").innerHTML += txt.charAt(i);
-    i++;
-    setTimeout(typeWriter, speed);
+h1 {
+  font-size: 9vmin;
+  color: #8bf;
+  text-align: left;
+  font-family: Lato, sans-serif;
+  font-weight: 700;
+  margin: 1rem 0 1rem 2rem;
+}
+
+
+@keyframes typing {
+  0.0000%, 27.3488% { content: ""; }
+  1.1395%, 26.2093% { content: "d"; }
+  2.2791%, 25.0698% { content: "de"; }
+  3.4186%, 23.9302% { content: "dev"; }
+  4.5581%, 22.7907% { content: "deve"; }
+  5.6977%, 21.6512% { content: "devel"; }
+  6.8372%, 20.5116% { content: "develo"; }
+  7.9767%, 19.3721% { content: "develop"; }
+  9.1163%, 18.2326% { content: "develope"; }
+  10.2558%, 17.0930% { content: "developer"; }
+  
+  30.7674%, 51.2791% { content: ""; }
+  31.9070%, 50.1395% { content: "d"; }
+  33.0465%, 49.0000% { content: "da"; }
+  34.1860%, 47.8605% { content: "dan"; }
+  35.3256%, 46.7209% { content: "danc"; }
+  36.4651%, 45.5814% { content: "dancer"; }
+  
+  
+  
+  @keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.typewriter {
+  --caret: currentcolor;
+}
+
+.typewriter::before {
+  content: "";
+  animation: typing 13.5s infinite;
+}
+
+.typewriter::after {
+  content: "";
+  border-right: 1px solid var(--caret);
+  animation: blink 0.5s linear infinite;
+}
+
+.typewriter.thick::after {
+  border-right: 1ch solid var(--caret);
+}
+
+.typewriter.nocaret::after {
+  border-right: 0;
+}
+
+
+@media (prefers-reduced-motion) {
+  .typewriter::after {
+    animation: none;
+  }
+  
+  @keyframes sequencePopup {
+    0%, 100% { content: "developer"; }
+    25% { content: "dancer"; }
+    
+  }
+
+  .typewriter::before {
+    content: "developer";
+    animation: sequencePopup 12s linear infinite;
   }
 }
-  setInterval(()=>{
-  typeWriter()})
-</script>  
+
+  
+</style>
   
 
