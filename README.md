@@ -101,8 +101,7 @@
 																       
 																       
 																       
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">  
   &emsp;
@@ -116,15 +115,15 @@
  
 </p>
 
-<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Hosting Plathform
+###<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Hosting Plathform
  
 <p align="center">  
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" height=30px width = 130px></a>  
   &emsp;
-    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/github-%231817.svg?style=plastic&logo=netlify&logoColor=white" height=30px width = 130px></a>
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%231817.svg?style=plastic&logo=netlify&logoColor=white" height=30px width = 130px></a>
   &emsp;
-    <a href="#"><img alt="Render" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=render&logoColor=white" height=30px width = 130px></a>
+    <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-%230F9D58.svg?style=plastic&logo=render&logoColor=white" height=30px width = 130px></a>
   &emsp;
    
  
