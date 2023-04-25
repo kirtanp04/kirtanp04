@@ -94,7 +94,15 @@
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%2361DAFB.svg?style=plastic&logo=SQJ&logoColor=blue" height=30px width = 130px>
   </a>
 </p>
+													     
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Mobile App Development															       
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.react.org" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React Native-%2361DAFB.svg?style=plastic&logo=React&logoColor=black" height=30px width = 130px>
+  </a> 
+</p>													     
 											       
 																       
 																       
