@@ -66,13 +66,17 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white" height=30px width = 130px>
   </a> 
   &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" height=30px width = 130px>
+   </a>
+  &emsp;
   <a href="https://www.react.org" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black" height=30px width = 130px>
   </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" height=30px width = 130px>
-   </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="NextJS" src="https://img.shields.io/badge/NextJS-%23181717.svg?style=plastic&logo=next3&logoColor=black" height=30px width = 130px>
+  </a>
 </p>
 																       
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Backend Development															       
@@ -92,6 +96,10 @@
   &emsp;
   <a href="https://www.w3schools.com/sql/sql_intro.asp#:~:text=What%20is%20SQL%3F,for%20Standardization%20(ISO)%20in%201987" target="_blank">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%2361DAFB.svg?style=plastic&logo=SQJ&logoColor=blue" height=30px width = 130px>
+  </a>
+  &emsp;
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="NextJS" src="https://img.shields.io/badge/NextJS-%23181717.svg?style=plastic&logo=next3&logoColor=black" height=30px width = 130px>
   </a>
 </p>
 													     
