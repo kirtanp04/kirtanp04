@@ -141,6 +141,8 @@
   &emsp;
     <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-%230F9D58.svg?style=plastic&logo=render&logoColor=white" height=30px width = 130px></a>
   &emsp;
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23181717.svg?style=plastic&logo=vercel&logoColor=white" height=30px width = 130px></a>
+  &emsp;
    
  
 </p>
