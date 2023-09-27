@@ -75,7 +75,7 @@
   </a>
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%231572B6.svg?style=plastic&logo=typescript3&logoColor=white" height=30px width = 130px>
+    <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%231572B6.svg?style=plastic&logo=typescript&logoColor=white" height=30px width = 130px>
   </a> 
   &emsp;
   <a href="https://nextjs.org/" target="_blank">
