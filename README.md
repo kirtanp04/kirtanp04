@@ -74,6 +74,10 @@
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black" height=30px width = 130px>
   </a>
   &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-%231572B6.svg?style=plastic&logo=typescript3&logoColor=white" height=30px width = 130px>
+  </a> 
+  &emsp;
   <a href="https://nextjs.org/" target="_blank">
     <img alt="NextJS" src="https://img.shields.io/badge/NextJS-%23181717.svg?style=plastic&logo=next3&logoColor=black" height=30px width = 130px>
   </a>
