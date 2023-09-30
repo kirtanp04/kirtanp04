@@ -23,7 +23,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Mobile App Developement` using `React-Native`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY WEBSITE](https://kirtanp04-profile.netlify.app/).
+- :boom: You can visit [MY WEBSITE](https://kirtanp04.netlify.app).
 <br>
 
 
