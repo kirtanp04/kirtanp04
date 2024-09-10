@@ -19,7 +19,7 @@
 
 <br><br>
 
-- :school: I am a  `Full Stack Developer`
+- :school: I am a  `Software Engineer`
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `T3 stack` using `tRPC , Prisma`.
 - :nerd_face: Always `learning new things`.
