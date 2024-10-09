@@ -48,5 +48,5 @@ I'm a **Full-Stack Developer** passionate about crafting scalable and efficient 
 
 ## 📫 Let's Connect!
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirtan)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirtanp04)
 - 📧 **Email:** [kirtanfake0412@gmail.com](mailto:kirtanpatel6189@gmail.com)
