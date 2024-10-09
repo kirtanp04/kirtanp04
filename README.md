@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kirtan!
+# 👋 Hi, I'm Kirtan Patel!
 
 I am Computer Engineering graduate from MBIT, Anand, Gujarat. I have interned ETECH Energy Consultancy Pvt. Ltd. as web developer.
 
