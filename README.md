@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Kirtan!
 
-I'm a **Full-Stack Developer** passionate about crafting scalable and efficient web and mobile applications. My focus is on creating clean, maintainable code using the latest technologies to deliver high-quality solutions.
+I am Computer Engineering graduate from MBIT, Anand, Gujarat. I have interned ETECH Energy Consultancy Pvt. Ltd. as web developer.
+
+Technology excites me and I am always in awe of the change it drive in the world. Certain skills that I have worked with includes Frontend Development ( HTML, CSS, JavaScript, Reactjs, Nextjs, React-Redux, Tailwind-CSS, Material-ui, React-Query ) and Backend Development ( Nodejs, Expressjs, MongoDB, tRPC, Prisma-ORM, Next-auth ).
+
+Outside of tech, I am a tea lover, Interested in Football and enjoy dancing.
 
 ---
 
