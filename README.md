@@ -6,7 +6,7 @@ Technology excites me and I am always in awe of the change it drive in the world
 
 Outside of tech, I am a tea lover, Interested in Football and enjoy dancing.
 
----
+
 
 ## 🔧 Tech Stack
 
@@ -33,7 +33,7 @@ Outside of tech, I am a tea lover, Interested in Football and enjoy dancing.
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
----
+
 
 ## 🌟 Key Skills
 
@@ -42,13 +42,13 @@ Outside of tech, I am a tea lover, Interested in Football and enjoy dancing.
 - **Attention to Detail**: Committed to writing clean, maintainable code, with a focus on best practices and performance optimization.
 - **User-Centric Design**: Experience in creating responsive and intuitive user interfaces that enhance user experience.
 
----
+
 
 ## 📈 GitHub Stats
 
 ![Kirtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirtanp04&show_icons=true&theme=radical)
 
----
+
 
 ## 📫 Let's Connect!
 
