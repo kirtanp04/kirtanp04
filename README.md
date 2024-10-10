@@ -53,4 +53,4 @@ Outside of tech, I am a tea lover, Interested in Football and enjoy dancing.
 ## 📫 Let's Connect!
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirtanp04)
-- 📧 **Email:** [kirtanfake0412@gmail.com](mailto:kirtanpatel6189@gmail.com)
+- 📧 **Email:** [kirtanpatel6189@gmail.com](mailto:kirtanpatel6189@gmail.com)
