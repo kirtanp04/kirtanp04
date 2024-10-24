@@ -47,7 +47,7 @@ Outside of tech, I am a tea lover, Interested in Football and enjoy dancing.
 ## 📈 GitHub Stats
 
 ![Kirtan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirtanp04&show_icons=true&theme=radical)
-
+![Kirtan's GitHub Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtanp04&layout=donut&theme=radical)
 
 
 ## 📫 Let's Connect!
