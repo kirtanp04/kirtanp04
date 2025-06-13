@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Kirtan Patel!
 
-I am Computer Engineering graduate from MBIT, Anand, Gujarat. I have interned ETECH Energy Consultancy Pvt. Ltd. as web developer.
-
-Technology excites me and I am always in awe of the change it drive in the world. Certain skills that I have worked with includes Frontend Development ( HTML, CSS, JavaScript, Reactjs, Nextjs, React-Redux, Tailwind-CSS, Material-ui, React-Query ) and Backend Development ( Nodejs, Expressjs, MongoDB, tRPC, Prisma-ORM, Next-auth ).
+Full-Stack Developer with experience building modern web applications using both frontend and backend
+technologies. Skilled in HTML, CSS, JavaScript, and TypeScript with expertise in React.js and Next.js
+frameworks. Backend proficiency includes Node.js, Express.js, and MongoDB for database management.
+Passionate about creating responsive, user-friendly interfaces while implementing robust server-side
+solutions. Committed to writing clean, maintainable code and staying updated with emerging web
+technologies.
 
 Outside of tech, I am a tea lover, Interested in Football and enjoy dancing.
 
